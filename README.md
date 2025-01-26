@@ -14,7 +14,7 @@ To start using the `loggerx2` package, add it to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  loggerx2: ^1.0.0
+  loggerx2: ^1.0.1
 ```
 
 Then, run `pub get` to install the package.

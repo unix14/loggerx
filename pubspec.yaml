@@ -1,6 +1,6 @@
 name: loggerx2
 description: Colorful, neat and intuitive logger library, for creating a simple log messages with many urgency levels.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/unix14/loggerx
 
 environment:
