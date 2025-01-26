@@ -13,8 +13,8 @@ Colorful, neat, and intuitive logger library for creating simple log messages wi
 To start using the `loggerx2` package, add it to your `pubspec.yaml` file:
 
 ```yaml
-  dependencies:
-    loggerx2: ^1.0.0
+dependencies:
+  loggerx2: ^1.0.0
 ```
 
 Then, run `pub get` to install the package.
@@ -24,9 +24,9 @@ Then, run `pub get` to install the package.
 Here is a simple example of how to use the `loggerx2` package:
 
 ```dart
-    import 'package:loggerx2/loggerx.dart';
-    
-    void main() {
+import 'package:loggerx2/loggerx.dart';
+
+void main() {
     final logger = LoggerX();
     
     logger.info('This is an info message');
@@ -34,7 +34,7 @@ Here is a simple example of how to use the `loggerx2` package:
     logger.warning('This is a warning message');
     logger.error('This is an error message');
     logger.success('This is a success message');
-    }
+}
 ```
 
 ## Additional Information
